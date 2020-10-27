@@ -1,0 +1,18 @@
+body{
+	/*background-image: url(../img/fondo.png);*/
+	background-image: url(../img/fondo.png);
+}
+html{
+	scroll-behavior: smooth;
+}
+.footer1{
+	margin-top: 20px;
+	background-color: #464646;
+}
+.footer1 img{
+	width: 24px;
+	height: 24px;
+}
+.footer1 p{
+	font-size: 14px;
+}
